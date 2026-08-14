@@ -54,9 +54,13 @@ Hazard Unit
 
 ## Simulation Results
 
-![Simulation Output](docs/simulation_output.png)
+### Register Verification (Tcl Console)
 
-![Waveform](docs/waveform.png)
+![Simulation Output](./docs/simulation_output.png)
+
+### Waveform (Vivado)
+
+![Waveform](./docs/waveform.png)
 
 ## Tools Used
 
